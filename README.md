@@ -1,2 +1,2 @@
 # paperswithrepo-issues
-paperswithrepo 代码即将开源。
+paperswithrepo.com 代码即将开源。
