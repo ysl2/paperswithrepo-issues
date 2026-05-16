@@ -1,13 +1,13 @@
 # paperswithrepo-issues
 
-paperswithrepo.com
+- paperswithrepo.com
+- songliyu97@gmail.com
 
-songliyu97@gmail.com
+<br>
 
 - Souce code will be released
 - Open an issue if you have any question or idea
 
-<br>
 <br>
 
 - 代码即将开源。
